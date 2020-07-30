@@ -1,0 +1,11 @@
+heading{
+    color:red;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading{
+    color:red;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif; 
+}
